@@ -5,7 +5,7 @@ Grzmot is a nonlethal explosive mine. It's used to gain more information about t
 
 Block Diagram:
 
-![Block Diagram](https://user-images.githubusercontent.com/61559101/133386988-64b9187e-2c2c-4b3f-9be6-f1e50f453c82.PNG)
+![Grzmot Mine BD](https://user-images.githubusercontent.com/61559101/133403329-3741a4fc-66f9-48f4-8670-c9748fe78384.gif)
 
  The above figure shows the basic block diagram of the Grzmot mine. 
  
