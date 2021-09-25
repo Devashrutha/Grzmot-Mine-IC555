@@ -21,5 +21,4 @@ Working:
 
 The NE555 time is configured in monostable mode.
 
-
-
+![Grzmot-Mine-Enlarged](https://user-images.githubusercontent.com/61559101/134760760-1178e263-dc88-4f69-9be4-3c72e65a9a80.gif)
