@@ -18,6 +18,7 @@ Block Diagram:
 🔺This high signal is fed to the input(negative edge triggered) of the NE555 timer circuit, which determines how long the ignition source must be on.
 
 Working:
+
  ![IC555](https://user-images.githubusercontent.com/61559101/134848590-44b1dce3-3aee-42d4-b397-8f90ec5028e4.PNG)
 “Image from https://www.electronics-tutorials.ws/waveforms/555_timer.html .”
 
