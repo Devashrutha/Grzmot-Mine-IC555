@@ -1,4 +1,4 @@
-# Grzmot-Mine
+# Grzmot-Mine(555 timer)
 INTRODUCTION:
 
 Grzmot is a nonlethal explosive mine. It's used to gain more information about the enemy's location during a siege. Imagine a hostage needs rescuing, but the position within the house is unknown. As a sentinel, you would want to cover your back from an ambush. The Grzmot mine has your back! It detects the heat radiated from humans in the infrared spectrum of light within a specific range. A short concussive burst from an explosive will disorientate the enemy and reveal his location. This mine can be attached to any surface during entry.This project is inspired by a game called 'Tom Clancy's Rainbow Six Siege'
